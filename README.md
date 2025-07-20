@@ -1,1 +1,1 @@
-# Frontend_Development_HMS_(Hospital_Management_System)
+# Frontend_Development_Hospital_Management_System
